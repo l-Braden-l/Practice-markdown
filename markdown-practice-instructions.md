@@ -11,7 +11,17 @@
 `Good_Dog = "Happy"`
 
   ## About me 
+>Braden's life
 
   **My sister is a councler at Misick**
 
   *I have a 9 year old goldfish named Fred*
+```
+{
+  "firstName": "Braden",
+  "lastName": "Leach",
+  "age": 17
+True_Home = "House"
+Print(firstName + lastName)
+}
+```
