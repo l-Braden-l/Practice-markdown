@@ -2,6 +2,7 @@
 ### Markdown Practice
 
 ## Overview
+![image](https://github.com/user-attachments/assets/a2815f56-e676-482e-9a99-011010ed7352)
 
 1. Sign in to GitHub.com and create a new repository named `markdown-practice`.
 2. To the repository, add a new markdown file called `practice.md`.
