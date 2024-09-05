@@ -1,15 +1,10 @@
 # Web & App Development
-### Markdown Practice
+### Braden Leach 
 
-## Overview
+## Markdown Practice
 ![image](https://github.com/user-attachments/assets/a2815f56-e676-482e-9a99-011010ed7352)
 
-1. Sign in to GitHub.com and create a new repository named `markdown-practice`.
-2. To the repository, add a new markdown file called `practice.md`.
-3. Add content as directed (see *Specifications* below) and apply some basic styling to your markdown file.
 
-## When Finished With This Activity
-Show me your finished markdown file before you leave today.
 
 ## Helpful Resources
 - Check out the [markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/) online.
