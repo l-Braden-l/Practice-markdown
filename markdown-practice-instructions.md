@@ -12,9 +12,6 @@
 
   ## About me 
 
-    -  Include as bullet points two cool facts about yourself
-    - Use markdown to make the first fact **bold**
-    - Use markdown to *italicize* the second fact
- 
+  **My sister is a councler at Misick**
 
-
+  *I have a 9 year old goldfish named Fred*
